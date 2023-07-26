@@ -1,0 +1,23 @@
+/* ====== common css start ======== */
+h1,h2,h3,h4,h5,h6,ul,ol,span,small {
+    padding: 0;
+    margin: 0;
+}
+ul {
+    list-style: none;
+}
+a,a:hover {
+    text-decoration: none;
+}
+body {
+    font-family: 'Arimo', sans-serif;
+}
+/* ====== common css start ======== */
+#banner{
+   background-image: url(../images/02_about_us-banner.png);
+   width: 100%;
+   height: 450px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #fff;
+}
